@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c65aebe17a29eba4dbafed3373440285, type: 3}
+  m_Name: Puma
+  m_EditorClassIdentifier: 
+  ItemName: Puma
+  ItemImage: {fileID: 21300000, guid: b97505ea0ceb75e469612f624c20a073, type: 3}
+  ItemDescription: 
+  Item3DModel: {fileID: 6682881295285488143, guid: 7b235725bdbca4e4c84db1c571d451b6, type: 3}
